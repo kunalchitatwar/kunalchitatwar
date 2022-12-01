@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kunalchitatwar](https://github.com/kunalchitatwar)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/kunalchitatwar">Github</a>
 
 - 📫 How to reach me **kunals14chitatwar@gmail.com**
 
