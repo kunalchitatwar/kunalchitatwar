@@ -1,13 +1,13 @@
 ### Hi there <img alt="Hi" width="20" src="https://gifimage.net/wp-content/uploads/2018/11/hi-emoji-gif-5.gif">
-<!-- <img align="right" alt="Hi" width="100" src="https://media.giphy.com/media/OULSDXbkcdNK0/giphy.gif"> -->
 <h1 align="center">Hi <img alt="Hi" width="70" src="https://media.giphy.com/media/OULSDXbkcdNK0/giphy.gif">, I'm Kunal Chitatwar</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center" >A passionate Full Stack Developer from India <img alt="Hi" width="25" src="https://2.bp.blogspot.com/-iiqlKwbPJ1c/WzkClfdKs-I/AAAAAAAAowk/vZVhlLUuCRAXBA1tI4quKia16O4zNX09wCLcBGAs/s1600/Flag_of_India.gif"></h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalchitatwar&label=Profile%20views&color=0e75b6&style=flat" alt="kunalchitatwar" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalchitatwar&label=Profile%20views&color=0e75b6&style=flat" alt="kunalchitatwar" /> </p>
+ -->
+<h2 align="left"><img alt="Hi" width="100" src="https://cdn.dribbble.com/users/482551/screenshots/3730787/emoji_dribbble.png">About Me </h2>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<br>
 - 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/kunalchitatwar">Github</a>
@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalchitatwar&show_icons=true&locale=en&layout=compact" alt="kunalchitatwar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalchitatwar&show_icons=true&locale=en" alt="kunalchitatwar" /></p>
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalchitatwar&show_icons=true&locale=en" alt="kunalchitatwar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalchitatwar&" alt="kunalchitatwar" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalchitatwar&" alt="kunalchitatwar" /></p>
