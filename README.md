@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kunal-chitatwar-85baa0152" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.wlasLB55TPENjSwJNjhvRQHaGp?pid=ImgDet&rs=1" alt="https://www.linkedin.com/in/kunal-chitatwar-85baa0152" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kunal-chitatwar-85baa0152/" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.wlasLB55TPENjSwJNjhvRQHaGp?pid=ImgDet&rs=1" alt="https://www.linkedin.com/in/kunal-chitatwar-85baa0152" height="30" width="40" /></a>
 <a href="https://instagram.com/kunal_chitatwar" target="blank"><img align="center" src="https://psfonttk.com/wp-content/uploads/2020/09/Instagram-Logo-PNG.png" alt="kunal_chitatwar" height="30" width="40" /></a>
 </p>
 
