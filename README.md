@@ -1,4 +1,3 @@
-### Hi there <img alt="Hi" width="20" src="https://gifimage.net/wp-content/uploads/2018/11/hi-emoji-gif-5.gif">
 <h1 align="center">Hi <img alt="Hi" width="70" src="https://media.giphy.com/media/OULSDXbkcdNK0/giphy.gif">, I'm Kunal Chitatwar</h1>
 <h3 align="center" >A passionate Full Stack Developer from India <img alt="Hi" width="25" src="https://2.bp.blogspot.com/-iiqlKwbPJ1c/WzkClfdKs-I/AAAAAAAAowk/vZVhlLUuCRAXBA1tI4quKia16O4zNX09wCLcBGAs/s1600/Flag_of_India.gif"></h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif">
